@@ -1,0 +1,24 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title{
+    line-height: 2;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    width: 920px;
+}
+
+.row-img{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    column-gap: 8rem;
+    text-align: center;
+    color:#f25a29 ;
+    /* gap: 2rem; */
+}
+
+.row-img img{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
